@@ -1,8 +1,3 @@
-<p align="center"><img src="https://github.com/FluxionNetwork/fluxion/blob/master/logos/logo1.jpg?raw=true" /></p>
-
-# Fluxion is the future of MITM WPA attacks
-Fluxion is a remake of linset by vk496 with (hopefully) less bugs and more functionality. It's compatible with the latest release of Kali (rolling). The attack is mostly manual, but experimental versions will automatically handle most functionality from the stable releases.
-
 ## :white_check_mark: Included dependency versions
 1. Aircrack : 1:1.2-0~rc4-0parrot0
 2. Lighttpd : 1.439-1
